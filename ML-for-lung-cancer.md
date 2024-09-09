@@ -1,6 +1,6 @@
 **A Summary of** [**Li, Wu, Yang, Jiang, and Luo (2022)**](file:///C:/Users/TOGUNWA%20T.O/Desktop/A%20Summary%20of%20Li.docx#_ENREF_1 "Li, 2022 #319")**’s Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis**
 
-[Taofeeq Oluwatosin Togunwa](https://github.com/Taofeeq-T)->Taofeeq-Togunwa, [Chidimma Nwaku](https://github.com/Chidicode), [Awoleke Ifeoluwa](https://github.com/ChaChaoyel), [Melvin Khakabo](https://github.com/MelvinKhakabo)
+[Taofeeq Oluwatosin Togunwa](https://github.com/Taofeeq-T)->Taofeeq-Togunwa, [Chidimma Nwaku](https://github.com/Chidicode)->Mma, [Awoleke Ifeoluwa](https://github.com/ChaChaoyel)->Ifeolu01, [Melvin Khakabo](https://github.com/MelvinKhakabo)->MELmostly
 
 **Summary**
 
