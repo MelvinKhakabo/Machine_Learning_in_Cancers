@@ -14,6 +14,8 @@ In treatment and prognosis, ML models have improved cancer treatment response ev
 
 Despite the widespread use of ML in lung cancer research, challenges remain. Integrating imaging, omics, and clinical data provides a comprehensive view but faces challenges from data noise, dimensionality problems, and platform variability. Model robustness and generalizability are also crucial concerns. Also, metrics like accuracy often fail to reflect true clinical needs. Although ML and DL models hold promise for lung cancer diagnosis and management, further research is needed to refine them for real-world clinical applications.
 
+**Video Summary**: https://www.loom.com/share/9400d703ce8b45bb9044ce1d63baf412
+
 **Reference**
 
 Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. *Genomics, Proteomics & Bioinformatics, 20*(5), 850-866. doi: https://doi.org/10.1016/j.gpb.2022.11.003
